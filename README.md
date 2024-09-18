@@ -1,2 +1,3 @@
 ## Hero Travel
-# Basic Landing page
+### Basic Landing page
+Home Page
